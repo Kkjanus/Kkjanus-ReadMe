@@ -4,7 +4,7 @@ My name is Kalaesia, but I go by **KK**.
 
 I am interested in learning more about technology and how we play a huge role in its development and its future. 💻
 
-📝 I am currently working on: **N/A** 
+📝 I am currently working on: **Interactive Restaurant Menu** 
 
 ## MY Hobbies 😄
 🎤 **Singing**
